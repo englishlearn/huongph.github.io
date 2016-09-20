@@ -51,7 +51,7 @@ url: https://huongph.github.io/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "https://huongph.github.io/"
+baseurl: "https://huongph.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
