@@ -98,7 +98,7 @@
             </article>
 
             <br/>
-            <div class="read-more">
+            <article class="post tag-article">
                 {% for post in site.related_posts limit:1 %}
                   <div class="read-more-header">
                     <a href="{{ site.url }}{{ page.previous.url }}" class="read-more-btn">Read More</a>
@@ -116,7 +116,7 @@
                     </div><!-- /.list-item -->
                   {% endfor %}
                 </div><!-- /.read-more-list -->
-            </div><!-- /.read-more -->
+            </article>
             <article class="post tag-article">
                 <footer class="post-footer">
                     <section class="author">
