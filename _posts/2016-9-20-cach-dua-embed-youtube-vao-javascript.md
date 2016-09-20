@@ -65,7 +65,7 @@ Nếu muốn các bạn cho thêm những thuộc tính sao trong line `https://
 
 ![alt text](https://github.com/huongph/huongph.github.io/blob/master/uploads/img/api-youtube-huong-pham.png?raw=true "Những thuộc tính api embed")
 
-Xong , Các bạn có thể xem code full ở đây [Full Code Embed Api Youtube](https://output.jsbin.com/nekaro)
+Xong , Các bạn có thể xem code full ở đây [Full Code Embed Api Youtube](https://output.jsbin.com/nekaro){:target="_blank"}
 
 ### Đây là ví dụ cụ thể
 
