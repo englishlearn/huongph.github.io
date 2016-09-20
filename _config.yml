@@ -57,7 +57,7 @@ baseurl: "https://huongph.github.io"
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title.html/
+permalink: /:title.md/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
