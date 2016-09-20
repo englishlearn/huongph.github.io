@@ -1,0 +1,45 @@
+---
+layout: blogs
+---
+  
+{% for post in paginator.posts %} 
+<article class="post tag-getting-started">
+    <img class='img-left' src='{{ post.logouser }}' />
+    <br/>
+    <header class="post-header">
+        <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        <br/>
+        <div class="date-box">
+            <span class="date-outer">
+         <span class="date-inner"><time datetime="2014-01-15">{{ post.date }}</time></span>
+            </span>
+        </div>
+    </header>
+    <section class="post-excerpt">
+        <br>
+        <p><p><img src="{{ post.thumbnail }}" alt="" /></p>{{ post.description }}</p>
+    </section>
+    <a href="{{ site.baseurl }}{{ post.url }}" class="post-meta"> Read More </a>
+</article>
+<br/>
+{% endfor %}
+<!--<nav class="pagination" role="navigation">
+    <span class="page-number">Page 1 of 2</span>
+    <a class="older-posts" href="/page/2/">Older Posts &rarr;</a>
+</nav>-->
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+    
