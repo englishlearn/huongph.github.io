@@ -65,6 +65,7 @@ Nếu muốn các bạn cho thêm những thuộc tính sao trong line `https://
 
 ![alt text](https://github.com/huongph/huongph.github.io/blob/master/uploads/img/api-youtube-huong-pham.png?raw=true "Những thuộc tính api embed")
 
+Xong , Các bạn có thể xem code full ở đây [https://output.jsbin.com/nekaro] (https://output.jsbin.com/nekaro)
 ### Đây là ví dụ cụ thể
 
 Ở đây các bạn có nhìn thấy nó có giổng của tôi không? :D 
@@ -79,7 +80,7 @@ Nếu muốn các bạn cho thêm những thuộc tính sao trong line `https://
 {::nomarkdown}
 <div class="youtube-player" data-id="3AtDnEC4zak"></div>
 <style>
-.youtube-player {
+    .youtube-player {
         position: relative;
         padding-bottom: 56.23%;
         /* Use 75% for 4:3 videos */
