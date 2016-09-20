@@ -54,6 +54,19 @@
     border-radius: 3px;
 }
 
+.highlight pre {
+    position: relative;
+    margin: 0;
+    padding: 1em;
+}
+
+pre {
+    font-size: 12px;
+    font-size: .75rem;
+    line-height: 1.5;
+    overflow-x: auto;
+}
+
 figure {
     margin: 0;
     padding-top: 10px;
