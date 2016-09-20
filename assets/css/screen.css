@@ -41,6 +41,61 @@
     font-style: normal;
 }
 
+.highlight {
+    margin-bottom: 1.5em;
+    font-size: 12px;
+    font-size: .75rem;
+    line-height: 2.1667;
+    color: #d0d0d0;
+    border: 1px solid #dbdbdb;
+    background-color: #272822;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+figure {
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.highlight .nf {
+    color: #a6e22e;
+}
+
+.highlight .p {
+    color: #f8f8f2;
+}
+.highlight .nl {
+    color: #f8f8f2;
+}
+.highlight .p {
+    color: #f8f8f2;
+}
+
+.highlight .nb {
+    color: #f8f8f2;
+}
+.highlight .m {
+    color: #ae81ff;
+}
+
+.highlight .nt {
+    color: #f92672;
+}
+.highlight .na {
+    color: #a6e22e;
+}
+
+.highlight .s {
+    color: #e6db74;
+}
+
+.highlight .c {
+    color: #75715e;
+}
+
 /* Apply these base styles to all icons */
 .icon-ghost, .icon-feed, .icon-twitter, .icon-google-plus, .icon-facebook {
     font-family: 'icons';
