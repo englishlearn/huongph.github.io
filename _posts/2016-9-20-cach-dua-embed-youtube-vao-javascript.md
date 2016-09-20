@@ -66,7 +66,12 @@ Nếu muốn các bạn cho thêm những thuộc tính sao trong line `https://
 ![alt text](https://github.com/huongph/huongph.github.io/blob/master/uploads/img/api-youtube-huong-pham.png?raw=true "Những thuộc tính api embed");
 
 ### Đây là ví dụ cụ thể
+Ở đây các bạn có nhìn thấy nó có giổng của tôi không? :D 
+#### Chú ý : 
+* Không thể remove watermark YouTube 
+* Không thể remove quản cáo YouTube
 
+*Và còn nhiều điều nữa... hihi ^^ *
 {::nomarkdown}
 <div class="youtube-player" data-id="3AtDnEC4zak"></div>
 <style>
