@@ -13,6 +13,7 @@ author: Huongph
 
 {% highlight javascript %}
 {% raw %}
+
     var londonMarathon = {
         name: "London Marathon",
         date: "April 13, 2014"
