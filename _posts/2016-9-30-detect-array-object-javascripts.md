@@ -53,7 +53,7 @@ author: Huongph
     console.log(getListOfMarathonNames(moreMarathons));
     // -> ["New York City Marathon", "Chicago Marathon"]
 
-{%% endraw %}
+{% endraw %}
 {% endhighlight %}
 
 
