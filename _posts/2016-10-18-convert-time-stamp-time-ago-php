@@ -9,7 +9,10 @@ author: Huongph
 
 The following function will convert the time stamp to time ago like 1hour ago, 1day ago, 2days ago etc. e.
 
-```php
+{% highlight html %} {% raw %} 
+
+
+
     <?php
     function timeAgo($time_ago){
     $cur_time 	= time();
@@ -77,17 +80,8 @@ The following function will convert the time stamp to time ago like 1hour ago, 1
     }
 
 ?>
-```php
+{% endraw %} {% endhighlight %}
 
-How to use:
 
-```php
-    
-    <?php
-      $curenttime="2013-07-10 09:09:09";
-      $time_ago =strtotime($curenttime);
-      echo timeAgo($time_ago);
-    ?>
-```php
 
 
