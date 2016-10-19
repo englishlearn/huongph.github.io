@@ -1,6 +1,6 @@
 ---
 layout: blogs_singles
-thumbnail: https://github.com/huongph/huongph.github.io/blob/master/uploads/img/banner-embed-youtube.png?raw=true
+thumbnail: http://phppot.com/wp-content/uploads/2016/03/php-time-ago-function.png
 title: PHP - Time Ago PHP Function.
 description:  The following function will convert the time stamp to time ago like 1hour ago, 1day ago, 2days ago etc.
 date: 18 Oct 2016
@@ -9,7 +9,7 @@ author: Huongph
 
 The following function will convert the time stamp to time ago like 1hour ago, 1day ago, 2days ago etc.
 
-{% highlight html %}
+{% highlight javascript %}
 {% raw %}
 <?php
 	function timeAgo($time_ago){
