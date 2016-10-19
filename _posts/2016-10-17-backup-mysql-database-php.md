@@ -71,5 +71,3 @@ function backup_tables($host,$user,$pass,$name,$tables = '*')
 }
 ?>
 
-ref: https://davidwalsh.name/backup-mysql-database-php
-
