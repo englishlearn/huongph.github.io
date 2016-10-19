@@ -3,7 +3,7 @@ layout: blogs_singles
 thumbnail: http://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2015/01/Test-oracle-db-backup.jpg
 title: PHP - Backup Your MySQL Database Using PHP.
 description:  Một trong những nhiệm vụ quan trọng nhất của bất kỳ nhà phát triển cần phải làm thường xuyên là backup cơ sở dữ liệu MySQL của họ. Trong nhiều trường hợp, các cơ sở dữ liệu là gì ổ đĩa nhất của trang web. Trong khi hầu hết các máy chủ web làm một bản sao lưu hàng ngày của cơ sở dữ liệu của khách hàng, dựa vào họ để thực hiện sao lưu và cung cấp cho họ miễn phí là nguy hiểm để nói rằng ít nhất. Đó là lý do tại sao tôi đã tạo ra một chức năng sao lưu cơ sở dữ liệu mà tôi có thể gọi bất cứ khi nào tôi muốn - bao gồm CRONs hàng đêm.
-date: 18 Oct 2016
+date: 17 Oct 2016
 author: Huongph
 ---
 
