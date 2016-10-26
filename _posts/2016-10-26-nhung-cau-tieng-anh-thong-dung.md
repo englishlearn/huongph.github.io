@@ -1,6 +1,6 @@
 ---
 layout: blogs_singles
-thumbnail: http://phppot.com/wp-content/uploads/2016/03/php-time-ago-function.png
+thumbnail: 
 title: ENGLISH - Tiếng Anh Thông Dụng
 description:  Những câu tiếng anh thông dụng trong giao tiếp hằng ngày.
 date: 20 Oct 2016
